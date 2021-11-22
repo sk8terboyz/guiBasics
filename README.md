@@ -16,11 +16,13 @@ CALCULATOR:
  - Currently only does addition
  - Output of equation is not present
  - It will add numbers to the input without the input of an operator
+
 TEMPERATURE:
  - Currently not much added
  - Needs the unit dropdown selector (F, C, K)
  - Needs the input box
  - Needs the output display
+
 UNIT CONVERTER:
  - Currently not much added
  - Needs the unit dropdown selector ("Foot", "Inch", "Mile", "Yard", "Kilometer", "Meter", "Centimeter", "Millimeter", "Micrometer", "Nanometer")
